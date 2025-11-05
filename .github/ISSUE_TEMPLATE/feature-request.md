@@ -1,26 +1,41 @@
 ---
-name: "Feature request"
-about: "Suggest a new feature for Paw Portion"
+name: Feature request
+about: Suggest a new feature for Paw Portion
 title: "[Feature]: "
-labels: ["feature"]
-assignees: []
+labels: enhancement
+assignees: ''
+
 ---
 
-## User Story
+## 🧩 User Story
 As a <role>, I can <action> so that <benefit>.
 
-## Context
+---
+
+## 💬 Context
 Why this matters / links to designs, notes
 
-## Acceptance Criteria
+---
+
+## ✅ Acceptance Criteria
 - [ ] Given … when … then …
 - [ ] Validation errors shown when …
 - [ ] Persisted and visible on …
 
-## Design (optional)
+---
+
+## 🎨Design (optional)
 Figma: <link>
 
-## Tech Notes
+---
+
+## 🧠 Tech Notes
 Routes:
 Models:
 Edge cases:
+
+---
+
+## 🧪 Test Scenarios
+- [ ] <behavior...> succeeds/fails
+- [ ] More tests
