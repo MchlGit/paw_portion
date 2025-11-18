@@ -68,6 +68,6 @@ gem "devise", "~> 4.9"
 
 gem "rubocop", "~> 1.81", groups: [:development, :test]
 
-gem "rubocop-rails", "~> 2.33", groups: [:development, :test]
+gem "rubocop-rails", "~> 2.34", groups: [:development, :test]
 
 gem "rubocop-performance", "~> 1.26", groups: [:development, :test]
